@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadanas215
 - 👀 I’m interested in Web And Mobile App Development
-- 🌱 I’m currently learning Block Chain
+- 🌱 I’m currently learning AI and Chatbots
 - 💞️ I’m looking to collaborate on Mern-Stack
 - 📫 How to reach me anasmuhammad215@gmail.com
 
