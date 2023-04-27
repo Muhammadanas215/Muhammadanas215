@@ -7,7 +7,7 @@
 
 <p align="left">Hey, I am a Full-Stack Software Developer.</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhail-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Suhail-Murtaza" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadanas215&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammadanas215" /> </p> -->
 
 <!-- - 💬 Ask me about **React, Next.js, JavaScript, TypeScript** -->
 
@@ -17,11 +17,11 @@
 
 <div align="left">
     <a href="https://github.com/Muhammadanas215">
-<!--     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> -->
-        <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" />
+<!--     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Muhammadanas215&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> -->
+        <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadanas215&theme=monokai" alt="Muhammadanas215" />
         </a>
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Murtaza&layout=compact&langs_count=7&theme=monokai"/> -->
-<!--         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" /> -->
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadanas215&layout=compact&langs_count=7&theme=monokai"/> -->
+<!--         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadanas215&theme=monokai" alt="Muhammadanas215" /> -->
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,11 +40,11 @@
 | --| --| --| --|
 
 
-<!-- <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Murtaza&layout=compact&langs_count=7&theme=monokai"/></p> -->
+<!-- <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadanas215&layout=compact&langs_count=7&theme=monokai"/></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="Suhail-Murtaza" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammadanas215&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="Muhammadanas215" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadanas215&theme=monokai" alt="Muhammadanas215" /></p> -->
 <!---
 Muhammadanas215/Muhammadanas215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
