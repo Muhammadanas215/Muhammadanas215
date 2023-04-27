@@ -1,12 +1,9 @@
+
+<p align="left">Hey, I am a Full-Stack Software Developer.</p>
 - 👋 Hi, I’m @Muhammadanas215
 - 👀 I’m interested in Web And Mobile App Development
 - 🌱 I’m currently learning AI and Chatbots
 - 💞️ I’m looking to collaborate on Mern-Stack
-- 📫 How to reach me anasmuhammad215@gmail.com
-
-
-<p align="left">Hey, I am a Full-Stack Software Developer.</p>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadanas215&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammadanas215" /> </p> -->
 
 <!-- - 💬 Ask me about **React, Next.js, JavaScript, TypeScript** -->
