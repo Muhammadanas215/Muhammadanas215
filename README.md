@@ -1,5 +1,4 @@
 
-<p align="left">Hey, I am a Full-Stack Software Developer.</p>
 - 👋 Hi, I’m @Muhammadanas215
 - 👀 I’m interested in Web And Mobile App Development
 - 🌱 I’m currently learning AI and Chatbots
@@ -10,6 +9,7 @@
 
 - Reach me at **anasmuhammad25@gmail.com**
 
+<p align="left">Hey, I am a Full-Stack Software Developer.</p>
 <h3 align="left">Profile Stats:</h3>
 
 <div align="left">
